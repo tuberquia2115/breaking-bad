@@ -12,7 +12,7 @@ html {
   height: 100%;
 }
 body {
-  background-image: url(logo.svg), -webkit-linear-gradient(top left, #007d35 0%, #007d35 40%, #0f574e 100%);
+  background-image: url(logo.svg), -webkit-linear-gradient(top left, #1a2c2b 0%, #041011 40%, #16635a 100%);
   min-height: 100%;
   background-position: center 80px, center center;
   background-repeat:no-repeat;
